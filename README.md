@@ -25,7 +25,7 @@ The primary objective of the game is to navigate each level, defeat enemies, col
 
 ## Installation
 
-1.) Files are currently too large to be zipped into GitHub. Reviewing alternative methods to share game
+1.) Play game on PC using URL to UnityPlay upload: https://play.unity.com/mg/other/mariobrothers-unity-project-final
 
 ## Contributing
 
