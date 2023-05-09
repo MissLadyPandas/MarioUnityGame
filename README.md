@@ -25,9 +25,7 @@ The primary objective of the game is to navigate each level, defeat enemies, col
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/SuperMarioBrosUnityHomage.git`
-2. Open the project in Unity.
-3. Build and run the game.
+1.) Files are currently too large to be zipped into GitHub. Reviewing alternative methods to share game
 
 ## Contributing
 
