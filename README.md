@@ -39,6 +39,8 @@ This project is licensed under the MIT License - see the LICENSE file for more d
 
 A big thank you to Nintendo for creating the original Super Mario Brothers game that inspired this project. This project wouldn't exist without the dedication, creativity, and hard work that went into creating the original game.
 
+I also want to thank youtuber Zigurous for posting his tutorial video series on how to create Mario in Unity. 
+
 Please note that this project is for educational purposes only. All assets and rights belong to their respective owners.
 
 ## Contact
